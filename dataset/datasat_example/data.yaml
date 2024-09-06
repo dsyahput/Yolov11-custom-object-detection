@@ -1,0 +1,7 @@
+
+path: /home/syahputra/projects/train-yolo/datasets/yellow_ball
+train: images/train
+val: images/val
+
+nc: 1  # Number of classes in your dataset
+names: ['Ball']  # List of class names in your dataset

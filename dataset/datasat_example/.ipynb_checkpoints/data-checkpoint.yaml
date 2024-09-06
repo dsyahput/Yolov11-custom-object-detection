@@ -1,0 +1,5 @@
+train: /home/syahputra/Documents/dataset/yellow_ball/images/train
+val: /home/syahputra/Documents/dataset/yellow_ball/images/val
+
+nc: 1  # Ganti dengan jumlah kelas pada dataset Anda
+names: ['Ball']  # Ganti dengan nama kelas-kelas pada dataset Anda
