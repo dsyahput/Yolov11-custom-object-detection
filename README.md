@@ -30,3 +30,6 @@ dataset_example/
 └── data.yaml
 ```
 You can refer to the folder "dataset/dataset_example" as a reference for setting up your dataset and data.yaml file. Make sure that each image in the train and val folders has a corresponding .txt file in the labels folder with the same filename. These .txt files contain the bounding box information for each object in the images.
+
+## training output
+When you run the training script in Jupyter Notebook or any other platform, a runs folder will be created automatically. You can check the terminal/output during the training process to see where your training results will be saved. Typically, it will save the results to a directory like runs/train/exp, where you can find model weights, logs, and metrics.
