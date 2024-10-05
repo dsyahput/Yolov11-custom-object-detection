@@ -1,4 +1,4 @@
-# Yolov8-custom-object-detection
+# Yolov11-custom-object-detection
 Before starting the training process, you need to prepare your dataset with the following folder structure. This structure ensures that YOLOv8 can easily locate the training and validation data.
 
 ## Dataset Folder Structure
